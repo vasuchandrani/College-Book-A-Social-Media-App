@@ -91,7 +91,7 @@ At the end of your degree:
 
 ## 🛠️ Current Status
 
-> 🚧 This app is under development. The vision is clear and development is ongoing.
+> 🚧 This web is under development. The vision is clear and development is ongoing.
 
 ---
 
