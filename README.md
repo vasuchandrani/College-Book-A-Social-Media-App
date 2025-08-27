@@ -95,5 +95,7 @@ At the end of your degree:
 
 ---
 
-
 ### 🙌 Made with passion for students, by a student who believes in collaboration over competition.
+
+Built by **Vatsal Chandrani** – turning ideas into digital solutions.  
+*“Code. Create. Empower.”* 
